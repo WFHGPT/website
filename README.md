@@ -1,5 +1,3 @@
-# website under construction.  
+# WFH GPT Website 
 
-#### In the meantime enjoy some of our music:
-
-https://soundcloud.com/wfhgpt
+#### Ai Resources for the DIY individual
