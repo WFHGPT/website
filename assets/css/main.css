@@ -1556,6 +1556,7 @@ section,
   opacity: 0.5;
   transition: 0.3s;
   filter: grayscale(100);
+  max-height: 100px;
 }
 
 .clients .swiper-slide img:hover {
@@ -2191,6 +2192,10 @@ section,
 /*--------------------------------------------------------------
 # Service Details Section
 --------------------------------------------------------------*/
+.service-details {
+  margin-top: 100px;
+}
+
 .service-details .service-box {
   background-color: var(--surface-color);
   padding: 20px;
@@ -2320,6 +2325,10 @@ section,
   font-size: 20px;
   margin-right: 8px;
   color: var(--accent-color);
+}
+
+.service-details i {
+  font-size: 35px;
 }
 
 /*--------------------------------------------------------------
