@@ -1,0 +1,10 @@
+# Allow all search engines to crawl the site
+User-agent: *
+Disallow:
+
+# Block access to GitHub Pages system files
+Disallow: /CNAME
+Disallow: /README.md
+
+# Sitemap location
+Sitemap: https://WFHGPT.github.io/website/sitemap.xml
