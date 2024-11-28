@@ -7,4 +7,4 @@ Disallow: /CNAME
 Disallow: /README.md
 
 # Sitemap location
-Sitemap: https://WFHGPT.github.io/website/sitemap.xml
+Sitemap: https://wfhgpt.com/sitemap.xml
